@@ -5,5 +5,6 @@ Beekeeper Assignment (2 member group)
 
 Theory concepts applied in this assignment learnt throughout the unit:
 - time complexities
-- heaps
+- recursion
 - Binary search trees
+- heaps
